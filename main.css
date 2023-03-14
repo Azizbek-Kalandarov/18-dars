@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: darkcyan;
+}
+
+img {
+  display: block;
+}
+
+.box {
+  width: 600px;
+  height: 500px;
+  border: 5px solid red;
+  /* background-image:
+  linear-gradient(180deg,
+  skyblue 30%,
+  red 30%,
+  red 35%,
+  white 35%,
+  white 65%,
+  red 65%,
+  red 70%,
+  green 70%); */
+  /* background-image: linear-gradient(180deg, red, blue); */
+  /* background-image: radial-gradient(circle, red 0%, blue 40%, green 90%); */
+  /* background-image: conic-gradient(from 45deg, orange, yellow, green, blue); */
+  /* background-image: linear-gradient(to bottom, black 33%, red 33%, red 66%, yellow 66% ); */
+
+  /* background-image: url("https://img.artlebedev.ru/everything/svetoforus/4/trafficlight-8.jpg"); */
+
+  /* background-size: 100px; */
+  /* background-repeat: no-repeat; */
+  /* background-position: calc(50% - 50px) calc(50% - 50px); */
+
+  /* x , y , tarqoqlik, mashtab(hajmi), rangi/ inset soyani ichkarida ta'sir qildiradi  */
+  /* box-shadow: 10px 50px 15px 50px red; */
+
+
+
+
+
+
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
